@@ -1,0 +1,12 @@
+STATEFP,COUNTYFP,county_fips,state,BUYER_DEA_NO,pharmacy,address,pills,link,BUYER_STATE,BUYER_COUNTY
+1,3,1003,AL,BR5156078,ALABAMA CVS PHARMACY,208 MCMEANS AVE   BAY MINETTE  AL 36507,1901530,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-BR5156078.csv,AL,BALDWIN
+1,3,1003,AL,BW4707139,WINN-DIXIE PHARMACY #571,710 MCMEANS AVE  BAY MINETTE  AL 36507,1481300,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-BW4707139.csv,AL,BALDWIN
+1,3,1003,AL,BN5150141,NORTH BALDWIN FAMILY PHCY,2012 HAND AVE  BAY MINETTE  AL 36507,1308370,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-BN5150141.csv,AL,BALDWIN
+1,3,1003,AL,FH2332233,HOMETOWN PHARMACY OF BAY MINETTE DBA BELL'S HOMETOWN PHARMACY,619 MCMEANS AVENUE  BAY MINETTE  AL 36507,326720,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-FH2332233.csv,AL,BALDWIN
+1,3,1003,AL,AS0479421,STACEY'S DRUG STORE,109 COURTHOUSE SQUARE  BAY MINETTE  AL 36507,231570,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-AS0479421.csv,AL,BALDWIN
+1,3,1003,AL,FM0569814,MEDICAP PHARMACY #8316,618 MCMEANS AVENUE  BAY MINETTE  AL 36507,132680,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-FM0569814.csv,AL,BALDWIN
+1,3,1003,AL,FF3603708,FRED'S PHARMACY #2089,1200 N  MCKENZIE STREET  FOLEY  AL 36535,9400,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-FF3603708.csv,AL,BALDWIN
+1,3,1003,AL,FP0535130,QUALITY RESPIRATORY QRC PHARMACY,14965 HWY 59 SUITE 101  FOLEY  AL 36535,2700,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-FP0535130.csv,AL,BALDWIN
+1,9,1009,AL,FB0605812,BLOUNTSVILLE PHARMACY,69005 MAIN STREET  BLOUNTSVILLE  AL 35031,701900,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-FB0605812.csv,AL,BLOUNT
+1,9,1009,AL,AB0454176,BLOUNTSVILLE PHARMACY,P O  BOX 250 69005 MAIN ST  BLOUNTSVILLE  AL 35031,300200,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-AB0454176.csv,AL,BLOUNT
+1,37,1037,AL,AC7530428,CREW DRUG STORE,PO BOX 157 1 MAIN STREET  ROCKFORD  AL 35136,282970,https://www.washingtonpost.com/wp-stat/dea-pain-pill-database/bulk/pharmacy/AL-AC7530428.csv,AL,COOSA
