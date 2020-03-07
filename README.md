@@ -2,6 +2,7 @@
 
 [Link to notebook](https://colab.research.google.com/github/jsoma/NICAR20-geocoding-apis/blob/master/Geocoding%20API%20worksheet.ipynb) or if you're a cheater (or slow typer!) you can skip to the [filled-in version](https://colab.research.google.com/github/jsoma/NICAR20-geocoding-apis/blob/master/Geocoding%20API%20worksheet-completed.ipynb)
 
+[and here are some secrets](https://gist.github.com/jsoma/22ca3d2d417713da6d18f80ee8025938)
 
 > Thanks to [Joe Fox's geocoding repo](https://github.com/joemfox/NICAR20-geocoding)
 
