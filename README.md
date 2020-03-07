@@ -2,7 +2,7 @@
 
 [Link to notebook](https://colab.research.google.com/github/jsoma/NICAR20-geocoding-apis/blob/master/Geocoding%20API%20worksheet.ipynb)
 
-> Based on [Joe Fox's geocoding API](https://github.com/joemfox/NICAR20-geocoding) example
+> Thanks to [Joe Fox's geocoding repo](https://github.com/joemfox/NICAR20-geocoding)
 
 ## What is geocoding?
 
